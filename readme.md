@@ -5,3 +5,5 @@ All the sources required to build the slides with xelatex are included, but for
 * BabelStone Han font
 
 Gnuplot 5.2 is required to build the figures.
+
+Distributed under CC BY 4.0
